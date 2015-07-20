@@ -1,0 +1,13 @@
+# Site settings
+title: A not so amazing blog
+email: kuraara.forrest@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'll be sure to update this later I swear.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kuraara.github.io" # the base hostname & protocol for your site
+twitter_username: buttfacekuraara
+github_username:  kuraara
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
